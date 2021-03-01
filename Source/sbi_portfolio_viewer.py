@@ -146,6 +146,7 @@ def get_foreign_denominated_securities(driver):
 			assets_dict["foreign_denominated"][asset_class]["assets"].append(detail_tmp)
 
 	driver.find_element_by_id("logoutM").click()
+	driver.close()
 
 	return assets_dict
 
