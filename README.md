@@ -40,5 +40,5 @@ chromedriver
 
 ## License
 
-Copyright (c) 2020 S.K. Technology Firm, @GuriTech
+Copyright (c) 2021 S.K. Technology Firm, @GuriTech
 Released under the MIT License
