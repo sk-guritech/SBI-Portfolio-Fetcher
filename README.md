@@ -1,8 +1,8 @@
 # SBI-Portfolio-Fetcher
-Module to get a list of securities held by SBI SECURITIES <br>
+Python-Module to get a list of securities held by SBI SECURITIES <br>
 (Currently, only US stocks, Japanese stocks, investment trusts, Japanese yen, and foreign currencies held by the author are supported)
 
-SBI証券で保有している証券のリストを取得するモジュール<br>
+SBI証券で保有している証券のリストを取得するPythonモジュール<br>
 (現在、作者が保有している米株現物・日本株現物・投資信託・日本円・外貨のみ対応)
 
 ## Donate Me
