@@ -1,6 +1,17 @@
 # SBI-Portfolio-Fetcher
-SBI証券で保有している証券のリストを取得するモジュール
+Module to get a list of securities held by SBI SECURITIES <br>
+(Currently, only US stocks, Japanese stocks, investment trusts, Japanese yen, and foreign currencies held by the author are supported)
 
+SBI証券で保有している証券のリストを取得するモジュール<br>
+(現在、作者が保有している米株現物・日本株現物・投資信託・日本円・外貨のみ対応)
+
+## Donate Me
+```
+NEM  : NB2DFL2GAI7JVVBYKHKCNBVLSOEQOGJSO4YFVBMN
+MONA : MNFghqmEdT5fBRKfsrKgEGwCWcd1sgHcym
+ETH  : 0x0dBCD45B11429eAc973e037CF93A373261AB7627
+BTC  : 3PDy26ruA9mzKEv4imqsAzEoYr2ANVnVDP
+```
 
 ## Useage
 ```
@@ -16,7 +27,7 @@ pprint(SBIPortfolioFetcher.fetch(user_name, password,chromedriver_executable_pat
 ```
 ## Requirements
 
-### Python Liblary
+### Python Library
 ```
 selenium
 beautifulsoup4
