@@ -5,13 +5,6 @@ SBI証券で保有している証券のリストを取得するPythonモジュ�
 Python-Module to get a list of securities held by SBI SECURITIES <br>
 (Currently, only US stocks, Japanese stocks, investment trusts, Japanese yen, and foreign currencies held by the author are supported)
 
-## Donate Me
-```
-NEM  : NB2DFL2GAI7JVVBYKHKCNBVLSOEQOGJSO4YFVBMN
-MONA : MNFghqmEdT5fBRKfsrKgEGwCWcd1sgHcym
-BTC  : 3PDy26ruA9mzKEv4imqsAzEoYr2ANVnVDP
-```
-
 ## Useage
 ```
 from sbi_portfolio_fetcher import SBIPortfolioFetcher
